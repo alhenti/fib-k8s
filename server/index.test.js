@@ -1,0 +1,1 @@
+test('server tests always pass', () => {});
